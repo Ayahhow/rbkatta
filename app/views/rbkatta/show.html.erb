@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @rbkattum.user %>
+</p>
+
+<p>
+  <strong>Rbkatta:</strong>
+  <%= @rbkattum.rbkatta %>
+</p>
+
+<p>
+  <strong>Comment:</strong>
+  <%= @rbkattum.comment %>
+</p>
+
+<p>
+  <strong>Time:</strong>
+  <%= @rbkattum.time %>
+</p>
+
+<p>
+  <strong>Already:</strong>
+  <%= @rbkattum.already %>
+</p>
+
+<%= link_to 'Edit', edit_rbkattum_path(@rbkattum) %> |
+<%= link_to 'Back', rbkatta_path %>

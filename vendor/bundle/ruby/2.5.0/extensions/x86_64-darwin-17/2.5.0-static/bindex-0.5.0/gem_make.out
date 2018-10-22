@@ -1,0 +1,15 @@
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/ayamac/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20181018-31634-5fnkt2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20181018-31634-1qutm4y/bindex

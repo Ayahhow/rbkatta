@@ -1,0 +1,15 @@
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/ayamac/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20181018-31634-dq2rqu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ayamac/Desktop/Programs/rails/katta/rbkatta/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181018-31634-b54ht1/bootsnap

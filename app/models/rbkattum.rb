@@ -1,0 +1,2 @@
+class Rbkattum < ApplicationRecord
+end
